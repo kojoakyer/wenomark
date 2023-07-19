@@ -1,0 +1,62 @@
+.main{
+    position: relative;
+  background-color: #19191B;
+  padding: 50px 0px 50px 0px;
+
+}
+
+.main-title{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.main-arrow{
+    position: absolute;
+    width: 104px;
+    top: 10%;
+    left: 150px;
+}
+
+.main-add{
+    position: absolute;
+    top: 20%;
+    right: 50px;
+}
+
+
+
+
+.main-title h3{
+    width: 700px;
+    font-size: 60px;
+    color: white;
+}
+.main-container{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+    padding: 50px 100px;
+}
+
+.main-card{
+    width: 350px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
+.main-card h6{
+    font-size: 28px;
+    font-weight: 500;
+}
+
+.main-card p{
+    text-align: center;
+    color: #FFFFFF;
+    font-weight: 300;
+    font-size: 16px;
+}
+

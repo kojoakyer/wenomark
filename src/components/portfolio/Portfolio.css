@@ -1,0 +1,33 @@
+
+.portfolio{
+    height: 600px;
+    background-color: #19191B;
+    margin-top: -50px;
+}
+
+.portfolio h3{
+    color: white;
+    font-size: 40px;
+    margin-left: 60px;
+
+}
+
+
+.portfolio-wrapper{
+    padding: 50px 150px;
+}
+
+.portfolio-img1{
+    margin-right: 20px;
+}
+
+
+.portfolio-img2{
+    margin-top: 30px;
+}
+
+
+.portfolio-img3{
+    margin-top: 60px;
+    margin-left: 20px;
+}
